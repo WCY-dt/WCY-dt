@@ -19,9 +19,9 @@
 
 <h2 align="center"> 📈MY CONTRIBUTIONS📈</h2>
 
-<img align="center" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=wcy-dt&dates=00000072&border=00000000&stroke=0000000F" />
+<p align="center"><img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=wcy-dt&dates=00000072&border=00000000&stroke=0000000F" /></p>
 
-<img align="center" width="60%" src="https://activity-graph.herokuapp.com/graph?username=wcy-dt&hide_border=true&bg_color=white&hide_title=true&line=007ACC&point=181717&color=181717" />
+<p align="center"><img  width="60%" src="https://activity-graph.herokuapp.com/graph?username=wcy-dt&hide_border=true&bg_color=white&hide_title=true&line=007ACC&point=181717&color=181717" /></p>
 
 <br/>
 
