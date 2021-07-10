@@ -5,7 +5,7 @@
 - 🏢 I'm currently studing at [**Southeast University**](https://www.seu.edu.cn/)
 - :hammer_and_pick: I use daily: ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 - 💻 Learning all about: ![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
-- 🌝Other technical stack: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) 
+- 💡Other technical stack: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) 
 - 🔧Tools I often use: ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![wt](https://img.shields.io/badge/-WT-4D4D4D?style=flat&logo=windows%20terminal&logoColor=ffffff) 
 - 🌱 Recently I am learning: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=ffffff) ![Php](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=ffffff) 
 
@@ -19,5 +19,18 @@
 
 <h2 align="center"> 📈MY CONTRIBUTIONS📈</h2>
 
-<p align="center"><img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=wcy-dt&dates=00000072&border=00000000&stroke=0000000F"/></center>
-<center><img width="60%" src="https://activity-graph.herokuapp.com/graph?username=wcy-dt&hide_border=true&bg_color=white&hide_title=true&line=007ACC&point=181717&color=181717"></p>
+<img align="center" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=wcy-dt&dates=00000072&border=00000000&stroke=0000000F"/>
+
+<img align="center" width="60%" src="https://activity-graph.herokuapp.com/graph?username=wcy-dt&hide_border=true&bg_color=white&hide_title=true&line=007ACC&point=181717&color=181717">
+
+<br/>
+
+<h2 align="center">📚RECENT UPDATES OF MY BLOGS📚</h2>
+
+<p align="center"><a href="https://wcy-dt.github.io/buffer_overflow">【SEED Labs】Buffer-Overflow Attack - 2021-07-11</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/cmake">CMake教程 - 2021-07-04</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0">信号与线性系统笔记 - 2021-05-27</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/%E7%BD%91%E7%BB%9C%E6%B5%81">【算法】网络流 - 2021-05-26</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/%E5%86%99%E5%9C%A8520">写在520 - 2021-05-20</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/Nyquist's-Theorem-&-Shannon's-Theorem">Nyquist's Theorem & Shannon's Theorem - 2021-05-10</a></p>
+
