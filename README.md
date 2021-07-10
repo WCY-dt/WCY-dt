@@ -1,8 +1,6 @@
-<center><h2> Hi there! I'm Chenyang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2></center>
+<h2 align="center"> Hi there! I'm Chenyang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wcy-dt&hide=prs,issues,contribs&show_icons=true&hide_border=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wcy-dt&show_icons=true&hide_border=true" />
 
 - 🏢 I'm currently studing at [**Southeast University**](https://www.seu.edu.cn/)
 - :hammer_and_pick: I use daily: ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
@@ -13,14 +11,13 @@
 
 <br/>
 
-<center><b><font size="5">✨HOW TO CONTACT ME✨</font></b></center>
+<p align="center"><b><font size="5">✨HOW TO CONTACT ME✨</font></b></p>
 
-<center><a href="mailto:dt_chenyang@163.com"><img src="https://img.shields.io/badge/-dt_chenyang@163-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Chenyan32433045/"><img src="https://img.shields.io/badge/-chenyang-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/"/></a> <a href="https://www.zhihu.com/people/wu-chang-yu-99-22"><img src="https://img.shields.io/badge/-嘤嘤怪-0084FF?style=flat-square&logo=zhihu&logoColor=white"/></a> <a href="https://github.com/WCY-dt"/><img src="https://img.shields.io/badge/-WCYdt-181717?style=flat-square&logo=github"/></a></center>
+<p align="center"><a href="mailto:dt_chenyang@163.com"><img src="https://img.shields.io/badge/-dt_chenyang@163-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Chenyan32433045/"><img src="https://img.shields.io/badge/-chenyang-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/"/></a> <a href="https://www.zhihu.com/people/wu-chang-yu-99-22"><img src="https://img.shields.io/badge/-嘤嘤怪-0084FF?style=flat-square&logo=zhihu&logoColor=white"/></a> <a href="https://github.com/WCY-dt"/><img src="https://img.shields.io/badge/-WCYdt-181717?style=flat-square&logo=github"/></a></p>
 
 <br/>
 
-<center><b><font size="5">📈MY CONTRIBUTIONS📈</font></b></center>
+<p align="center"><b><font size="5">📈MY CONTRIBUTIONS📈</font></b></p>
 
-<center><img src="http://github-readme-streak-stats.herokuapp.com?user=wcy-dt&dates=00000072&border=00000000&stroke=0000000F"/></center>
-<center><img src="https://activity-graph.herokuapp.com/graph?username=wcy-dt&hide_border=true&bg_color=white&hide_title=true&line=007ACC&point=181717&color=181717"></center>
-
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=wcy-dt&dates=00000072&border=00000000&stroke=0000000F"/></center>
+<center><img src="https://activity-graph.herokuapp.com/graph?username=wcy-dt&hide_border=true&bg_color=white&hide_title=true&line=007ACC&point=181717&color=181717"></p>
