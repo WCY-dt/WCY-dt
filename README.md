@@ -6,7 +6,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wcy-dt&show_icons=true&hide_border=true" />
 
-- 🏢 I'm currently studing at [**Southeast University**](https://www.seu.edu.cn/)
+- 🏢 I'm currently studing in [**Southeast University**](https://www.seu.edu.cn/)
 - :hammer_and_pick: I use daily: ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 - 💻 Learning all about: ![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 - 💡Other technical stack: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) 
@@ -15,7 +15,7 @@
 
 <br/>
 
-<h2 align="center"> ✨HOW TO CONTACT ME✨</h2>
+<h2 align="center"> ✨HOW TO CONTACT WITH ME✨</h2>
 
 <p align="center"><a href="mailto:dt_chenyang@163.com"><img src="https://img.shields.io/badge/-dt_chenyang@163-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Chenyan32433045/"><img src="https://img.shields.io/badge/-chenyang-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/"/></a> <a href="https://www.zhihu.com/people/wu-chang-yu-99-22"><img src="https://img.shields.io/badge/-嘤嘤怪-0084FF?style=flat-square&logo=zhihu&logoColor=white"/></a> <a href="https://github.com/WCY-dt"/><img src="https://img.shields.io/badge/-WCYdt-181717?style=flat-square&logo=github"/></a></p>
 
@@ -42,7 +42,7 @@
 
 <br/>
 
-<h2 align="center">😁LAUGH TIME😁</h2>
+<h2 align="center">😁LAUGHING TIME😁</h2>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="Jokes Card" /></p>
 
