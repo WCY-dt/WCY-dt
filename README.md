@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=000000&size=80&center=true&multiline=true&width=1600&height=120&lines=Hi+there!+I+am+Chenyang!" /></p>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+<p align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> </p>
 
 <h2 align="center"> 👦THIS IS ME!👦</h2>
 
