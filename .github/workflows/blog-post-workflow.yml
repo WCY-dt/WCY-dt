@@ -11,5 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "6"
+          max_post_count: "10"
           feed_list: "https://wcy-dt.github.io/feed.xml"
+          template: <center><a href= $url > $title - $date </a></center> $newline

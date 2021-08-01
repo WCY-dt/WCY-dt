@@ -31,16 +31,9 @@
 
 <h2 align="center">📚RECENT UPDATES OF MY BLOGS📚</h2>
 
-<center>
-    <!-- BLOG-POST-LIST:START -->
-- [【SEED Labs】MD5 Collision](https://wcy-dt.github.io/MD5)
-- [【SEED Labs】SQL injection](https://wcy-dt.github.io/SQL)
-- [修改 Linux 内核](https://wcy-dt.github.io/%E4%BF%AE%E6%94%B9Linux%E5%86%85%E6%A0%B8)
-- [【SEED Labs】XSS](https://wcy-dt.github.io/XSS)
-- [The Tao of Programming](https://wcy-dt.github.io/The-Tao-of-Programming)
-- [Packet Travelling](https://wcy-dt.github.io/Packet-Travelling)
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</center>
+
 
 <p align="center"><a href="https://wcy-dt.github.io/"> <img src="https://quotes-github-readme.vercel.app/api?border=false" /></a></p>
 
