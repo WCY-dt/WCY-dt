@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '05 16 * * *'
   workflow_dispatch: 
 jobs:
   update-readme-with-blog:
@@ -14,5 +14,5 @@ jobs:
           max_post_count: "10"
           feed_list: "https://wcy-dt.github.io/feed.xml"
           date_format: mmm d, yyyy
-          template: <center><a href= $url > $title - $date </a></center><br/>
+          template: <p align="center"><a href= $url > $title - $date </a></p><br/>
         
