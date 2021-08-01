@@ -31,12 +31,10 @@
 
 <h2 align="center">📚RECENT UPDATES OF MY BLOGS📚</h2>
 
-<p align="center"><a href="https://wcy-dt.github.io/MD5">【SEED Labs】MD5 Collision - 2021-07-30</a></p>
-<p align="center"><a href="https://wcy-dt.github.io/SQL">【SEED Labs】SQL injection - 2021-07-24</a></p>
-<p align="center"><a href="https://wcy-dt.github.io/%E4%BF%AE%E6%94%B9Linux%E5%86%85%E6%A0%B8">修改 Linux 内核 - 2021-07-22</a></p>
-<p align="center"><a href="https://wcy-dt.github.io/XSS">【SEED Labs】XSS - 2021-07-21</a></p>
-<p align="center"><a href="https://wcy-dt.github.io/The-Tao-of-Programming">The Tao of Programming - 2021-07-20</a></p>
-<p align="center"><a href="https://wcy-dt.github.io/Packet-Travelling">Packet Travelling - 2021-07-19</a></p>
+<center>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+</center>
 
 <p align="center"><a href="https://wcy-dt.github.io/"> <img src="https://quotes-github-readme.vercel.app/api?border=false" /></a></p>
 

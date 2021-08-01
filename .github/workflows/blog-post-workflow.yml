@@ -1,0 +1,14 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # 每个小时自动获取一次
+    - cron: "0 * * * *"
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: WCY-dt/blog-post-workflow@master
+        with:
+          max_post_count: "6"
+          feed_list: "https://wcy-dt.github.io/feed.xml"
