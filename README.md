@@ -4,14 +4,14 @@
 
 <h2 align="center"> 👦THIS IS <a href="https://wcy-dt.github.io/">ME</a>!👦</h2>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wcy-dt&show_icons=true&hide_border=true" />
+<a href="https://wcy-dt.github.io/"> <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wcy-dt&show_icons=true&hide_border=true" /></a>
 
 - 🏢 I'm currently studing in [**Southeast University**](https://www.seu.edu.cn/)
 - :hammer_and_pick: I use daily: [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)](https://wcy-dt.github.io/)
 - 💻 Learning all about: [![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)](https://wcy-dt.github.io/)
 - 💡Other technical stack: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)](https://wcy-dt.github.io/)
 - 🔧Tools I often use: [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=ffffff)](https://wcy-dt.github.io/)
-- 🌱 Recently I am learning: [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=ffffff) ![Php](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=ffffff)](https://wcy-dt.github.io/)
+- 🌱 Recently I am learning: [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=ffffff) ![Php](https://img.shields.io/badge/-Unreal Engine-313131?style=flat&logo=Unreal Engine&logoColor=ffffff)](https://wcy-dt.github.io/)
 
 <br/>
 
@@ -31,12 +31,12 @@
 
 <h2 align="center">📚RECENT UPDATES OF MY BLOGS📚</h2>
 
-<p align="center"><a href="https://https://wcy-dt.github.io/buffer_overflow">【SEED Labs】Buffer-Overflow Attack - 2021-07-11</a></p>
-<p align="center"><a href="https://https://wcy-dt.github.io/cmake">CMake教程 - 2021-07-04</a></p>
-<p align="center"><a href="https://https://wcy-dt.github.io/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0">信号与线性系统笔记 - 2021-05-27</a></p>
-<p align="center"><a href="https://https://wcy-dt.github.io/%E7%BD%91%E7%BB%9C%E6%B5%81">【算法】网络流 - 2021-05-26</a></p>
-<p align="center"><a href="https://https://wcy-dt.github.io/%E5%86%99%E5%9C%A8520">写在520 - 2021-05-20</a></p>
-<p align="center"><a href="https://https://wcy-dt.github.io/Nyquist's-Theorem-&-Shannon's-Theorem">Nyquist's Theorem & Shannon's Theorem - 2021-05-10</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/MD5">【SEED Labs】MD5 Collision - 2021-07-30</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/SQL">【SEED Labs】SQL injection - 2021-07-24</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/%E4%BF%AE%E6%94%B9Linux%E5%86%85%E6%A0%B8">修改 Linux 内核 - 2021-07-22</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/XSS">【SEED Labs】XSS - 2021-07-21</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/The-Tao-of-Programming">The Tao of Programming - 2021-07-20</a></p>
+<p align="center"><a href="https://wcy-dt.github.io/Packet-Travelling">Packet Travelling - 2021-07-19</a></p>
 
 <p align="center"><a href="https://wcy-dt.github.io/"> <img src="https://quotes-github-readme.vercel.app/api?border=false" /></a></p>
 
