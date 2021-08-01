@@ -31,7 +31,16 @@
 
 <h2 align="center">📚RECENT UPDATES OF MY BLOGS📚</h2>
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><center><a href= https://wcy-dt.github.io/MD5 > 【SEED Labs】MD5 Collision - Fri Jul 30 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/SQL > 【SEED Labs】SQL injection - Sat Jul 24 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/%E4%BF%AE%E6%94%B9Linux%E5%86%85%E6%A0%B8 > 修改 Linux 内核 - Thu Jul 22 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/XSS > 【SEED Labs】XSS - Wed Jul 21 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/The-Tao-of-Programming > The Tao of Programming - Tue Jul 20 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/Packet-Travelling > Packet Travelling - Mon Jul 19 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%B8%AAC%E7%BC%96%E8%AF%91%E5%99%A8 > 从零开始写一个C编译器 - Sat Jul 17 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/HTML%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7 > HTML奇技淫巧 - Fri Jul 16 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/gdb-toturial > GDB touturial: a walkthrough with examples - Thu Jul 15 2021 4:00 PM </a></center> 
+<center><a href= https://wcy-dt.github.io/CSRF > 【SEED Labs】CSRF - Wed Jul 14 2021 4:00 PM </a></center> 
 <!-- BLOG-POST-LIST:END -->
 
 
