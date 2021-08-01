@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # 每个小时自动获取一次
     - cron: "0 * * * *"
+  workflow_dispatch: 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
