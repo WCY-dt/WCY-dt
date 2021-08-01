@@ -14,5 +14,5 @@ jobs:
           max_post_count: "10"
           feed_list: "https://wcy-dt.github.io/feed.xml"
           date_format: mmm d, yyyy
-          template: $newline <center><a href= $url > $title - $date </a></center> $newline $newline
+          template: <center><a href= $url > $title - $date </a></center><br/>
         
