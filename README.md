@@ -11,7 +11,7 @@
 - 💻 Learning all about: [![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)](https://wcy-dt.github.io/)
 - 💡Other technical stack: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)](https://wcy-dt.github.io/)
 - 🔧Tools I often use: [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=ffffff)](https://wcy-dt.github.io/)
-- 🌱 Recently I am learning: [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=ffffff) ![Php](https://img.shields.io/badge/-Unreal Engine-313131?style=flat&logo=Unreal Engine&logoColor=ffffff)](https://wcy-dt.github.io/)
+- 🌱 Recently I am learning: [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=ffffff) ![ue](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=Unreal%20Engine&logoColor=ffffff)](https://wcy-dt.github.io/)
 
 <br/>
 
