@@ -8,10 +8,10 @@
 
 - 🏢 I'm currently studing in [**Southeast University**](https://www.seu.edu.cn/)
 - :hammer_and_pick: I use daily: [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=ffffff) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)](https://wcy-dt.github.io/)
-- 💻 Learning all about: [![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)](https://wcy-dt.github.io/)
-- 💡Other technical stack: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)](https://wcy-dt.github.io/)
+- 💻 Learning all about: [![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) ![go](https://img.shields.io/badge/-go-00ADD8?style=flat&logo=go&logoColor=ffffff)](https://wcy-dt.github.io/)
+- 💡Other technical stack: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff) ![electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=ffffff)](https://wcy-dt.github.io/)
 - 🔧Tools I often use: [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) ![vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=ffffff)](https://wcy-dt.github.io/)
-- 🌱 Recently I am learning: [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=ffffff) ![ue](https://img.shields.io/badge/-UE4-313131?style=flat&logo=Unreal%20Engine&logoColor=ffffff) ![mma](https://img.shields.io/badge/-Mathematica-DD1100?style=flat&logo=WolframMathematica&logoColor=ffffff)](https://wcy-dt.github.io/)
+- 🌱 Recently I am learning: [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=ffffff) ![vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ffffff) ![ue](https://img.shields.io/badge/-UE4-313131?style=flat&logo=Unreal%20Engine&logoColor=ffffff)](https://wcy-dt.github.io/)
 
 <br/>
 
