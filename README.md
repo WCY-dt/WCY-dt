@@ -17,7 +17,7 @@
 
 <h2 align="center"> ✨HOW TO CONTACT WITH ME✨</h2>
 
-<p align="center"><a href="mailto:dt_chenyang@163.com"><img src="https://img.shields.io/badge/-dt_chenyang@163-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Chenyan32433045/"><img src="https://img.shields.io/badge/-chenyang-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/"/></a> <a href="https://github.com/WCY-dt"/><img src="https://img.shields.io/badge/-WCYdt-181717?style=flat-square&logo=github"/></a> <a href="https://wcy-dt.github.io/"><img src="https://img.shields.io/badge/-晨阳的博客-CC0000?style=flat-square&logo=jekyll&logoColor=white" /></a></p>
+<p align="center"><!--<a href="mailto:dt_chenyang@163.com"><img src="https://img.shields.io/badge/-dt_chenyang@163-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> --><a href="https://twitter.com/ch3nyang/"><img src="https://img.shields.io/badge/-ch3nyang-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/"/></a><!-- <a href="https://github.com/WCY-dt"/><img src="https://img.shields.io/badge/-WCYdt-181717?style=flat-square&logo=github"/></a> <a href="https://wcy-dt.github.io/"><img src="https://img.shields.io/badge/-晨阳的博客-CC0000?style=flat-square&logo=jekyll&logoColor=white" /></a>--></p>
 
 <br/>
 
