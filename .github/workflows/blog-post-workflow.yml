@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 * * * *'
+  repository_dispatch:
+    types: [blog-page-updated]
   workflow_dispatch: 
 permissions:
   contents: write
