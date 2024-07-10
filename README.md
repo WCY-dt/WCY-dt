@@ -35,4 +35,4 @@ Hi there! I'm [***Ch3nyang***](https://ch3nyang.top), hailing from Southeast Uni
 
 **RECENT BLOGS**
 
-<!-- BLOG-POST-LIST:START --><p><a href= https://blog.ch3nyang.top/post/MiniOS64_3/ >2024 - Jul - 旅程刚刚开始</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_2/ >2024 - Jul - 32位的世界</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_1/ >2024 - Jul - 系统，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/%E5%86%8D%E8%B0%88git/ >2024 - Jun - 再谈git</a></p><p><a href= https://blog.ch3nyang.top/post/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84/ >2024 - May - 前端框架是怎么实现的</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p><a href= https://blog.ch3nyang.top/post/MiniOS64_4/ >2024 - Jul - 内核，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_3/ >2024 - Jul - 旅程刚刚开始</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_2/ >2024 - Jul - 32位的世界</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_1/ >2024 - Jul - 系统，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/%E5%86%8D%E8%B0%88git/ >2024 - Jun - 再谈git</a></p><!-- BLOG-POST-LIST:END -->
