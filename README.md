@@ -33,11 +33,11 @@ Hi there! I'm [***Ch3nyang***](https://ch3nyang.top), hailing from Southeast Uni
 <img src="https://api.iconify.design/vscode-icons:file-type-haskell.svg" class="iconify" loading="lazy"><span>Haskell</span>&emsp;
 <img src="https://api.iconify.design/vscode-icons:file-type-tauri.svg" class="iconify" loading="lazy"><span>Tauri</span>&emsp;
 
-**RECENT [BLOGS](https://blog.ch3nyang.top)**
+**RECENT BLOGS**
 
 <!-- BLOG-POST-LIST:START --><p><a href= https://blog.ch3nyang.top/post/MiniOS64_4/ >2024 - Jul - 内核，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_3/ >2024 - Jul - 旅程刚刚开始</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_2/ >2024 - Jul - 32位的世界</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_1/ >2024 - Jul - 系统，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/%E5%86%8D%E8%B0%88git/ >2024 - Jun - 再谈git</a></p><!-- BLOG-POST-LIST:END -->
 
-**BADGES**
+<br/>
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
