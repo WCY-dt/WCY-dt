@@ -26,5 +26,5 @@ jobs:
           max_post_count: "5"
           feed_list: "https://blog.ch3nyang.top/feed.xml"
           date_format: yyyy - mmm
-          template: <p><a href= $url >$date - $title</a></p>
+          template: <p><a href="$url">$date - $title</a></p>
         

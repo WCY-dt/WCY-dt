@@ -1,0 +1,9 @@
+{
+  "markdownlint.config": {
+    "MD026": false, // Ignora no-trailing-punctuation
+    "MD033": false, // Ignora no-inline-html
+    "MD036": false, // Ignora no-emphasis-as-heading
+    "MD041": false, // Ignora first-line-h1
+    "MD045": false, // Ignora no-alt-text
+  }
+}

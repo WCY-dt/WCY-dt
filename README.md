@@ -1,64 +1,25 @@
+### Hi there! I'm [***Ch3nyang***](https://ch3nyang.top), hailing from [Southeast University, China](https://www.seu.edu.cn), currently pursuing a Master's degree in [Cybersecurity](https://cyber.seu.edu.cn).
 
-Hi there! I'm [***Ch3nyang***](https://ch3nyang.top), hailing from Southeast University, China, currently pursuing a Master's degree in Cybersecurity.
+## 🌐Socials
 
-**CONTACT**&emsp;&emsp;&emsp;
-<a href="mailto:mail@ch3nyang.top" class="item"><img src="https://api.iconify.design/logos:google-gmail.svg" class="iconify" loading="lazy"><span>mail@ch3nyang.top</span></a>&emsp;
-<a href="https://twitter.com/ch3nyang" class="item"><img src="https://api.iconify.design/logos:twitter.svg" class="iconify" loading="lazy"><span>ch3nyang</span></a>&emsp;
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail@ch3nyang.top) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ch3nyang) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/ch3nyang)
 
-**FRONTEND**&emsp;&emsp;&nbsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-tailwind.svg" class="iconify" loading="lazy"><span>Tailwind</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-typescript-official.svg" class="iconify" loading="lazy"><span>TypeScript</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-vue.svg" class="iconify" loading="lazy"><span>Vue.js</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" class="iconify" loading="lazy"><span>React.js</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-serverless.svg" class="iconify" loading="lazy"><span>Serverless</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-glsl.svg" class="iconify" loading="lazy"><span>WebGL</span>&emsp;
+## 💻Tech Stack
 
-**BACKEND**&emsp;&emsp;&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-c3.svg" class="iconify" loading="lazy"><span>C</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-cpp3.svg" class="iconify" loading="lazy"><span>C++</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-python.svg" class="iconify" loading="lazy"><span>Python</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" class="iconify" loading="lazy"><span>Rust</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" class="iconify" loading="lazy"><span>Go</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-mysql.svg" class="iconify" loading="lazy"><span>MySQL</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-sqlite.svg" class="iconify" loading="lazy"><span>SQLite</span>&emsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8D8.svg?style=for-the-badge&logo=tauri&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/webgl-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white) ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arch](https://img.shields.io/badge/Arch-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-**OTHER SKILLS**&emsp;&nbsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-vim.svg" class="iconify" loading="lazy"><span>Vim</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-git.svg" class="iconify" loading="lazy"><span>Git</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-cmake.svg" class="iconify" loading="lazy"><span>CMake</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-docker.svg" class="iconify" loading="lazy"><span>Docker</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-ai.svg" class="iconify" loading="lazy"><span>Illustrator</span>&emsp;
+## 🏆GitHub Stats
 
-**LEARNING**&emsp;&emsp;&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-haskell.svg" class="iconify" loading="lazy"><span>Haskell</span>&emsp;
-<img src="https://api.iconify.design/vscode-icons:file-type-tauri.svg" class="iconify" loading="lazy"><span>Tauri</span>&emsp;
+![](https://github-readme-stats.vercel.app/api?username=WCY-dt&theme=graywhite&hide_border=true&include_all_commits=false)
 
-**RECENT BLOGS**
+![](https://github-profile-trophy.vercel.app/?username=WCY-dt&theme=flat&column=7&margin-w=0&margin-h=0&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
-<!-- BLOG-POST-LIST:START --><p><a href= https://blog.ch3nyang.top/post/MiniOS64_4/ >2024 - Jul - 内核，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_3/ >2024 - Jul - 旅程刚刚开始</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_2/ >2024 - Jul - 32位的世界</a></p><p><a href= https://blog.ch3nyang.top/post/MiniOS64_1/ >2024 - Jul - 系统，启动！</a></p><p><a href= https://blog.ch3nyang.top/post/%E5%86%8D%E8%B0%88git/ >2024 - Jun - 再谈git</a></p><!-- BLOG-POST-LIST:END -->
+## ✒️Recent Blogs
 
-<br/>
+[![RSS](https://img.shields.io/badge/rss-subscribe-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white)](https://blog.ch3nyang.top/feed.xml)
 
-<!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
-<a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
-<a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
-<a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
-<a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
-<a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
-<a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
-<a href="my-badges/rebel-coder.md"><img src="https://my-badges.github.io/my-badges/rebel-coder.png" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
-<a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
-<a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
-<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
-<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<!-- my-badges end -->
+---
 
+![](https://visitcount.itsvg.in/api?id=WCY-dt&label=Profile%20Views&pretty=false)
