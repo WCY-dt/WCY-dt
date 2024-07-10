@@ -1,13 +1,18 @@
 name: Latest blog post workflow
+
 on:
   push:
     branches:
       - main
   repository_dispatch:
     types: [blog-page-updated]
-  workflow_dispatch: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
 permissions:
   contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
