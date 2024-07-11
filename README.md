@@ -1,8 +1,8 @@
-### Hi there! I'm [***Ch3nyang***](https://ch3nyang.top), hailing from [Southeast University, China](https://www.seu.edu.cn), currently pursuing a Master's degree in [Cybersecurity](https://cyber.seu.edu.cn).
+### 👋Hi there! I'm [***Ch3nyang***](https://ch3nyang.top), hailing from [Southeast University, China](https://www.seu.edu.cn), currently pursuing a Master's degree in [Cybersecurity](https://cyber.seu.edu.cn).
 
 ## 🌐Socials
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail@ch3nyang.top) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ch3nyang) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1011904467303673888)
+[![Email](https://img.shields.io/badge/Email-mail@ch3nyang.top-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail@ch3nyang.top) [![Twitter](https://img.shields.io/badge/Twitter-@ch3nyang-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ch3nyang) [![Discord](https://img.shields.io/badge/Discord-@ch3nyang-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1011904467303673888)
 
 ## 💻Tech Stack
 
