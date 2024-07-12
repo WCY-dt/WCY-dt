@@ -10,7 +10,7 @@
 
 ## 🏆GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=WCY-dt&theme=graywhite&hide_border=true&include_all_commits=false)
+![](https://github-readme-stats.vercel.app/api?username=WCY-dt&theme=graywhite&hide_border=true&count_private=true&hide=contribs&show_icons=true&hide_rank=true&hide_title=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=WCY-dt&theme=flat&column=7&margin-w=0&margin-h=0&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
