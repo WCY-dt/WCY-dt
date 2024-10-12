@@ -18,7 +18,7 @@
 
 [![RSS](https://img.shields.io/badge/rss-subscribe-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white)](https://blog.ch3nyang.top/feed.xml)
 
-<!-- BLOG-POST-LIST:START --><p><a href="https://blog.ch3nyang.top/post/MiniOS64_4/">2024 - Jul - 内核，启动！</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_3/">2024 - Jul - 旅程刚刚开始</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_2/">2024 - Jul - 32位的世界</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_1/">2024 - Jul - 系统，启动！</a></p><p><a href="https://blog.ch3nyang.top/post/%E5%86%8D%E8%B0%88git/">2024 - Jun - 再谈git</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p><a href="https://blog.ch3nyang.top/post/%E6%B5%85%E6%9E%90C%E4%B8%AD%E5%87%BD%E6%95%B0%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E4%B8%80%E4%BE%8BUB/">2024 - Oct - 浅析C中函数返回值的一例UB</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_4/">2024 - Jul - 内核，启动！</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_3/">2024 - Jul - 旅程刚刚开始</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_2/">2024 - Jul - 32位的世界</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_1/">2024 - Jul - 系统，启动！</a></p><!-- BLOG-POST-LIST:END -->
 
 ---
 
