@@ -18,7 +18,7 @@
 
 [![RSS](https://img.shields.io/badge/rss-subscribe-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white)](https://blog.ch3nyang.top/feed.xml)
 
-<!-- BLOG-POST-LIST:START --><p><a href="https://blog.ch3nyang.top/post/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E5%8A%A0%E8%BD%BD%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5/">2024 - Nov - 静态网页加载速度优化实践</a></p><p><a href="https://blog.ch3nyang.top/post/Python%E7%9A%84import%E9%99%B7%E9%98%B1/">2024 - Nov - Python的import陷阱</a></p><p><a href="https://blog.ch3nyang.top/post/%E6%B5%85%E6%9E%90C%E4%B8%AD%E5%87%BD%E6%95%B0%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E4%B8%80%E4%BE%8BUB/">2024 - Oct - 浅析C中函数返回值的一例UB</a></p><p><a href="https://blog.ch3nyang.top/post/PDB%E5%85%A5%E9%97%A8/">2024 - Aug - PDB入门</a></p><p><a href="https://blog.ch3nyang.top/post/MiniOS64_4/">2024 - Jul - 系统内核，启动！</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p><a href="https://blog.ch3nyang.top/post/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B6%8A%E7%8B%B1%E6%94%BB%E5%87%BB%E5%88%9D%E6%8E%A2/">2024 - Nov - 大模型越狱攻击初探</a></p><p><a href="https://blog.ch3nyang.top/post/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E5%8A%A0%E8%BD%BD%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5/">2024 - Nov - 静态网页加载速度优化实践</a></p><p><a href="https://blog.ch3nyang.top/post/Python%E7%9A%84import%E9%99%B7%E9%98%B1/">2024 - Nov - Python的import陷阱</a></p><p><a href="https://blog.ch3nyang.top/post/%E6%B5%85%E6%9E%90C%E4%B8%AD%E5%87%BD%E6%95%B0%E8%BF%94%E5%9B%9E%E5%80%BC%E7%9A%84%E4%B8%80%E4%BE%8BUB/">2024 - Oct - 浅析C中函数返回值的一例UB</a></p><p><a href="https://blog.ch3nyang.top/post/PDB%E5%85%A5%E9%97%A8/">2024 - Aug - PDB入门</a></p><!-- BLOG-POST-LIST:END -->
 
 ---
 
