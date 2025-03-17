@@ -1,8 +1,6 @@
 ### 👋Hi there!
 
-I'm [***Ch3nyang***](https://ch3nyang.top), a full-stack developer from China.
-
-I earned my bachelor’s degree in cyberspace security from [Southeast University, China](https://www.seu.edu.cn) and am currently pursuing a master’s degree. I have almost ten years of programming experience and have worked on many interesting projects.
+I'm [***Ch3nyang***](https://ch3nyang.top), a full-stack developer from China. I have almost ten years of programming experience and have worked on many interesting projects.
 
 ## 🌐Socials
 
