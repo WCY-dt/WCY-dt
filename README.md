@@ -1,8 +1,6 @@
-<img width="100%" alt="poster-XS" src="https://github.com/user-attachments/assets/e3a3012e-7f14-42e4-9bba-f6968437711a" />
-
 ### 👋Hi there!
 
-I'm [***Ch3nyang***](https://ch3nyang.top), a full-stack developer from China. I have almost ten years of programming experience and have worked on many interesting projects.
+I'm [***Ch3nyang***](https://ch3nyang.top), a full-stack developer from China.
 
 ## 🌐Socials
 
